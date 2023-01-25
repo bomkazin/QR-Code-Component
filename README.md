@@ -29,7 +29,7 @@ The WT instructors.
 @SankThomas, This helped me with the finishing touches of the project, like the margins and height of my container(how to make them suitable for different devices).
 
 # Link
-bomkazin.github.io
+ https://bomkazin.github.io/QR-Code-Component/
 
 # Answers
 1. A
